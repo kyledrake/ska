@@ -1,0 +1,9 @@
+test:
+  api_key: 1234
+  secret_key: 4567
+  canvas_page_name: test
+  callback_url: http://test.nowhere
+  page_id: 0
+  page_url: 
+  page_tab_url: 
+  uid: 
